@@ -5,6 +5,7 @@
 }
 body {
   background-color: burlywood;
+  font-family: 'Inter', sans-serif;
 }
 main {
   width: 100%;
@@ -31,13 +32,13 @@ main {
   color: white;
   font-size: 12vw;
   margin-bottom: 15px;
-  font-weight: bold;
+  font-weight: 800;
   opacity: 1;
 }
 #current-date {
   color: white;
   font-size: 5vw;
-  font-weight: 600;
+  font-weight: 500;
   opacity: 1;
 }
 .color-picker {
